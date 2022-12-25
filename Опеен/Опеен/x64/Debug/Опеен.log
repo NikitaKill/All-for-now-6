@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: main уже определен в Source.obj
+LINK : fatal error LNK1104: не удается открыть файл "msvcprtd.lib"
